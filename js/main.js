@@ -1,7 +1,6 @@
 $(document).ready(function() {
     animateDiv($('.a'));
-        animateDiv($('.b'));
-        animateDiv($('.c'));
+    animateDiv($('.b'));
 
 });
 
