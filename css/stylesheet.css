@@ -3,9 +3,9 @@
 }
 
 body {
-	/*Name background img file back.png*/
+	/*Put back img below*/
 	background: linear-gradient(rgba(20, 26, 35,0.55),rgba(20, 26, 35, 0.55)),
-				url("../img/back.png") no-repeat center center fixed;
+				url("../img/64741AEA-B23F-4C7F-AB0E-324E46B116D9.jpeg") no-repeat center center fixed;
 	background-size: cover;
 	font-family: "Open Sans", Helvetica;
 	margin: 0;
