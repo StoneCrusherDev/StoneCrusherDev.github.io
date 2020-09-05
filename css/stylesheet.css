@@ -6,9 +6,10 @@ body {
 	/*Put Colour below*/
 	background: linear-gradient(rgba(0, 221, 250),rgba(0, 117, 250));
 	background-size: cover;
-	font-family: "Open Sans", Helvetica;
+	font-family: "Arial", Rounded MT Bold;
 	margin: 0;
 	position: relative;
+        color: white;
 }
 
 .center {
