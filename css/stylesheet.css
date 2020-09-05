@@ -7,7 +7,8 @@ body {
 	background: linear-gradient(rgba(0, 221, 250),rgba(0, 117, 250));
 	background-size: cover;
 	font-family: "Arial", Rounded MT Bold;
-	margin: 0;
+	margin-left: auto;
+        margin-right: auto;
 	position: relative;
         color: white;
 }
