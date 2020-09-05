@@ -17,3 +17,9 @@ body {
   margin-right: auto;
   width: 50%;
 }
+
+.left {
+  display: block;
+  margin-right: auto;
+  width: 50%;
+}
