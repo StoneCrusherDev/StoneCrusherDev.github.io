@@ -47,3 +47,13 @@ body {
   margin-right: auto;
   width: 8%;
 }
+
+.right-side {
+  float: right;
+  padding: 5px;
+}
+
+.left-side {
+  float: left;
+  padding: 5px;
+}
