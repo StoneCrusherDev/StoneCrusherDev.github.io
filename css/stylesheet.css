@@ -59,3 +59,10 @@ body {
   padding: 5px;
   width: 35%;
 }
+
+.discord {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
