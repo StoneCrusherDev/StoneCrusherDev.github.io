@@ -41,9 +41,9 @@ body {
 
 .footer {
   position: absolute;
-  bottom: 10px;
+  bottom: 5px;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 30%;
+  width: 8%;
 }
