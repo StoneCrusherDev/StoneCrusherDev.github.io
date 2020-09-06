@@ -51,9 +51,11 @@ body {
 .right-side {
   float: right;
   padding: 5px;
+  width: 90%;
 }
 
 .left-side {
   float: left;
   padding: 5px;
+  width: 90%;
 }
