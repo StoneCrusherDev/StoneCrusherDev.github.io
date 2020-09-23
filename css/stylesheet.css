@@ -61,6 +61,7 @@ body {
 }
 
 .discord {
+  display: block;
   margin-top: auto;
   margin-bottom: auto;
   float: left;
@@ -68,6 +69,7 @@ body {
 }
 
 .email {
+  display: block;
   margin-top: auto;
   margin-bottom: auto;
   float: right;
